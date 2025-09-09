@@ -1,0 +1,28 @@
+{
+  "id": "death_rolls",
+  "title": "Death Rolls",
+  "description": "A module for playing Death Rolls in Foundry VTT.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Dylbann",
+      "url": "https://github.com/Dylbann"
+    }
+  ],
+  "url": "https://github.com/Dylbann/death_rolls",
+  "manifest": "https://github.com/Dylbann/death_rolls/releases/latest/download/death_rolls.zip",
+  "download": "https://github.com/Dylbann/death_rolls/archive/refs/tags/v1.0.0.zip",
+  "bugs": "https://github.com/Dylbann/death_rolls/issues",
+  "readme": "https://github.com/Dylbann/death_rolls/blob/main/README.md",
+  "changelog": "https://github.com/Dylbann/death_rolls/blob/main/CHANGELOG.md",
+  "license": "https://github.com/Dylbann/death_rolls/blob/main/LICENSE.txt",
+  "media": [],
+  "compatibility": {
+    "minimum": "13.0",
+    "verified": "13.4",
+    "maximum": "13.999"
+  },
+  "esmodules": [
+    "deathrolls.js"
+  ]
+}
